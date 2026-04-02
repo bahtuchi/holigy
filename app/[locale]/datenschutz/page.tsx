@@ -3,6 +3,9 @@ import Link from 'next/link';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 
+export const dynamic = 'force-static';
+export const dynamicParams = false;
+
 export default function DatenschutzPage() {
   const t = useTranslations('datenschutz');
 

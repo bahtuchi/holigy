@@ -3,6 +3,9 @@ import Link from 'next/link';
 import Navigation from '@/components/Navigation';
 import Footer from '@/components/Footer';
 
+export const dynamic = 'force-static';
+export const dynamicParams = false;
+
 export default function ImpressumPage() {
   const t = useTranslations('impressum');
   const locale = 'de'; // fallback, will be handled by locale layout
