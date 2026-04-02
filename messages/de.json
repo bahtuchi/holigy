@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "services": "Leistungen",
+    "about": "Über uns",
+    "why": "Warum Holigy",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "cta": "Kostenloses Erstgespräch"
+  },
+  "hero": {
+    "badge": "Holistische Energielösungen",
+    "headline": "Energie, die\nwirklich trägt.",
+    "subline": "Von der Solaranlage bis zur intelligenten Speicherlösung – wir begleiten Sie ganzheitlich auf dem Weg zur Energieunabhängigkeit.",
+    "cta_primary": "Kostenloses Erstgespräch",
+    "cta_secondary": "Leistungen entdecken"
+  },
+  "services_private": {
+    "badge": "Privatkunden",
+    "title": "Ihr Zuhause,\nIhre Energie.",
+    "subtitle": "Maßgeschneiderte Energielösungen für private Haushalte – von der ersten Beratung bis zum langfristigen Betrieb.",
+    "items": [
+      {
+        "title": "Solar-Dachanlagen",
+        "description": "Hochwertige Photovoltaikanlagen für Ihr Dach. Maximale Effizienz, minimalem Aufwand."
+      },
+      {
+        "title": "Heimspeicher",
+        "description": "Intelligente Batteriespeicher für Ihre selbst erzeugte Energie – auch nachts und bei schlechtem Wetter."
+      },
+      {
+        "title": "Wallbox & E-Mobilität",
+        "description": "Laden Sie Ihr Elektrofahrzeug zuhause smart und günstig mit selbst erzeugtem Solarstrom."
+      },
+      {
+        "title": "Energie-Monitoring",
+        "description": "Behalten Sie Ihren Verbrauch jederzeit im Blick – mit unserem Smart-Home-integrierten Monitoring-System."
+      },
+      {
+        "title": "Wartung & Service",
+        "description": "Rundum-sorglos-Paket: Regelmäßige Wartung, schneller Service und langfristige Betreuung Ihrer Anlage."
+      }
+    ]
+  },
+  "services_business": {
+    "badge": "Geschäftskunden",
+    "title": "Energie für\nIhr Unternehmen.",
+    "subtitle": "Professionelle Energielösungen für Gewerbe und Industrie – wirtschaftlich, nachhaltig und skalierbar.",
+    "items": [
+      {
+        "title": "Gewerbliche Solaranlagen",
+        "description": "Großflächige PV-Anlagen für Gewerbeimmobilien, Industrie- und Logistikflächen."
+      },
+      {
+        "title": "Industriespeicher",
+        "description": "Skalierbare Batteriespeichersysteme für industrielle Anforderungen und Lastspitzenoptimierung."
+      },
+      {
+        "title": "Energieaudits & Beratung",
+        "description": "Professionelle Analyse Ihres Energieverbrauchs mit konkreten Handlungsempfehlungen."
+      },
+      {
+        "title": "Netzintegration & PPAs",
+        "description": "Direkte Netzeinspeisung und Power-Purchase-Agreements für maximale Wirtschaftlichkeit."
+      },
+      {
+        "title": "Microgrids & Eigenversorgung",
+        "description": "Autarke Energieversorgung für Industrie- und Gewerbeparks – unabhängig vom öffentlichen Netz."
+      },
+      {
+        "title": "O&M-Verträge",
+        "description": "Langfristige Betriebsführung und Monitoring für maximale Anlagenverfügbarkeit und Rendite."
+      }
+    ]
+  },
+  "about": {
+    "badge": "Über uns",
+    "mission_label": "Unsere Mission",
+    "pull_quote": "Energie ist mehr als Strom – sie ist die Grundlage für ein selbstbestimmtes Leben.",
+    "paragraphs": [
+      "Holigy wurde gegründet mit einer klaren Vision: Energiewende nicht als technisches Problem, sondern als ganzheitliche Transformation zu verstehen.",
+      "Wir glauben, dass nachhaltige Energie dann am wirkungsvollsten ist, wenn sie in das Leben unserer Kunden integriert wird – nicht aufgesetzt, sondern selbstverständlich.",
+      "Von der ersten Beratung bis zur jahrelangen Betreuung begleiten wir Sie mit Expertise, Leidenschaft und echtem Interesse an Ihrer Energiezukunft."
+    ],
+    "team_title": "Das Team",
+    "team_subtitle": "Menschen, die Energie lieben.",
+    "team": [
+      {
+        "name": "Alexander Reuter",
+        "role": "Gründer & CEO",
+        "bio": "15 Jahre Erfahrung in der Energiebranche. Pionier für integrierte Energielösungen."
+      },
+      {
+        "name": "Dr. Sarah Müller",
+        "role": "Leiterin Technik",
+        "bio": "Spezialistin für Photovoltaik und Speichersysteme mit Doktorat in Elektrotechnik."
+      },
+      {
+        "name": "Thomas Wagner",
+        "role": "Vertrieb & Beratung",
+        "bio": "Experte für individuelle Energiekonzepte und langfristige Kundenbeziehungen."
+      },
+      {
+        "name": "Julia Schneider",
+        "role": "Projektmanagement",
+        "bio": "Koordiniert unsere Projekte mit Präzision – von der Planung bis zur Inbetriebnahme."
+      }
+    ]
+  },
+  "why": {
+    "badge": "Warum Holigy",
+    "title": "Der Unterschied,\nden man spürt.",
+    "items": [
+      {
+        "title": "Maßgeschneidert",
+        "description": "Keine Standardlösungen. Jedes Projekt wird individuell geplant und auf Ihre Bedürfnisse zugeschnitten."
+      },
+      {
+        "title": "End-to-End",
+        "description": "Von der Beratung über Installation bis zum laufenden Betrieb – alles aus einer Hand."
+      },
+      {
+        "title": "Langfristige Partnerschaft",
+        "description": "Wir denken in Jahrzehnten, nicht in Quartalen. Ihre Anlage ist unsere Verantwortung."
+      },
+      {
+        "title": "Lokale Expertise",
+        "description": "Tiefes Verständnis für regionale Gegebenheiten, Netzanforderungen und Förderprogramme."
+      }
+    ]
+  },
+  "projects": {
+    "badge": "Referenzen",
+    "title": "Projekte,\ndie überzeugen.",
+    "subtitle": "Eine Auswahl unserer abgeschlossenen Projekte.",
+    "items": [
+      {
+        "type": "Gewerbeanlage",
+        "title": "Logistikzentrum Süd",
+        "location": "München, Bayern",
+        "metric": "420 kWp installiert",
+        "description": "Großflächige Dachanlage mit integriertem Speichersystem und Eigenverbrauchsoptimierung."
+      },
+      {
+        "type": "Privatanlage",
+        "title": "Einfamilienhaus Bergheim",
+        "location": "Salzburg, Österreich",
+        "metric": "18 kWp + 30 kWh Speicher",
+        "description": "Vollintegrierte Energielösung mit Wallbox und Smart-Home-Anbindung."
+      },
+      {
+        "type": "Industrieanlage",
+        "title": "Produktionswerk Nord",
+        "location": "Hamburg, Deutschland",
+        "metric": "1,2 MWp Gesamtleistung",
+        "description": "Microgrid-Lösung mit Batteriespeicher und Netzeinspeisung via PPA."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Kontakt",
+    "title": "Starten wir\nIhre Energiezukunft.",
+    "subtitle": "Kostenloses Erstgespräch – unverbindlich und auf Ihre Situation zugeschnitten.",
+    "info_title": "Kontaktinformationen",
+    "address": "Energiestraße 12\n80331 München",
+    "phone": "+49 89 12345678",
+    "email": "hello@holigy.de",
+    "map_placeholder": "Karte",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "message": "Nachricht",
+      "message_placeholder": "Wie können wir Ihnen helfen?",
+      "type_private": "Privatkunde",
+      "type_business": "Geschäftskunde",
+      "submit": "Nachricht senden",
+      "type_label": "Ich bin"
+    }
+  },
+  "footer": {
+    "tagline": "Holistische Energielösungen für eine nachhaltige Zukunft.",
+    "nav_title": "Navigation",
+    "legal_title": "Rechtliches",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "copyright": "© 2024 Holigy GmbH. Alle Rechte vorbehalten."
+  },
+  "impressum": {
+    "title": "Impressum",
+    "content": "Angaben gemäß § 5 TMG\n\nHoligy GmbH\nEnergiestraße 12\n80331 München\n\nHandelsregister: HRB 123456\nRegistergericht: Amtsgericht München\n\nVertreten durch:\nAlexander Reuter (Geschäftsführer)\n\nKontakt:\nTelefon: +49 89 12345678\nE-Mail: hello@holigy.de\n\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE123456789"
+  },
+  "datenschutz": {
+    "title": "Datenschutzerklärung",
+    "content": "Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten innerhalb unseres Onlineangebotes auf.\n\n1. Verantwortlicher\nHoligy GmbH, Energiestraße 12, 80331 München\n\n2. Erhebung und Verwendung von Daten\nWir erheben und verwenden personenbezogene Daten nur, soweit dies zur Erbringung unserer Leistungen erforderlich ist.\n\n3. Kontaktformular\nWenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Formular zur Bearbeitung der Anfrage bei uns gespeichert.\n\n4. Ihre Rechte\nSie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten."
+  }
+}

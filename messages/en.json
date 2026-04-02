@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "why": "Why Holigy",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Free Consultation"
+  },
+  "hero": {
+    "badge": "Holistic Energy Solutions",
+    "headline": "Energy that\ntruly sustains.",
+    "subline": "From rooftop solar to intelligent storage – we guide you holistically on your path to energy independence.",
+    "cta_primary": "Free Consultation",
+    "cta_secondary": "Explore Services"
+  },
+  "services_private": {
+    "badge": "Private Clients",
+    "title": "Your Home,\nYour Energy.",
+    "subtitle": "Tailored energy solutions for private households – from initial consultation to long-term operation.",
+    "items": [
+      {
+        "title": "Solar Rooftop Systems",
+        "description": "Premium photovoltaic installations for your roof. Maximum efficiency, minimal effort."
+      },
+      {
+        "title": "Home Battery Storage",
+        "description": "Smart battery storage for your self-generated energy – even at night or on cloudy days."
+      },
+      {
+        "title": "EV Charging Solutions",
+        "description": "Charge your electric vehicle at home smartly and cheaply with your own solar power."
+      },
+      {
+        "title": "Energy Monitoring",
+        "description": "Keep track of your consumption at all times – with our smart home-integrated monitoring system."
+      },
+      {
+        "title": "Maintenance & Service",
+        "description": "All-inclusive package: regular maintenance, fast service and long-term care for your system."
+      }
+    ]
+  },
+  "services_business": {
+    "badge": "Business Clients",
+    "title": "Energy for\nYour Business.",
+    "subtitle": "Professional energy solutions for commercial and industrial use – economical, sustainable and scalable.",
+    "items": [
+      {
+        "title": "Commercial Solar Installations",
+        "description": "Large-scale PV systems for commercial properties, industrial and logistics facilities."
+      },
+      {
+        "title": "Industrial Energy Storage",
+        "description": "Scalable battery storage systems for industrial requirements and peak load optimization."
+      },
+      {
+        "title": "Energy Audits & Consulting",
+        "description": "Professional analysis of your energy consumption with concrete recommendations for action."
+      },
+      {
+        "title": "Grid Integration & PPAs",
+        "description": "Direct grid feed-in and Power Purchase Agreements for maximum economic efficiency."
+      },
+      {
+        "title": "On-site Generation & Microgrids",
+        "description": "Self-sufficient energy supply for industrial and commercial parks – independent of the public grid."
+      },
+      {
+        "title": "O&M Contracts",
+        "description": "Long-term operations management and monitoring for maximum plant availability and returns."
+      }
+    ]
+  },
+  "about": {
+    "badge": "About Us",
+    "mission_label": "Our Mission",
+    "pull_quote": "Energy is more than electricity – it is the foundation for a self-determined life.",
+    "paragraphs": [
+      "Holigy was founded with a clear vision: to understand the energy transition not as a technical problem, but as a holistic transformation.",
+      "We believe that sustainable energy is most effective when it is integrated into the lives of our customers – not imposed, but self-evident.",
+      "From the first consultation to years of support, we accompany you with expertise, passion and genuine interest in your energy future."
+    ],
+    "team_title": "The Team",
+    "team_subtitle": "People who love energy.",
+    "team": [
+      {
+        "name": "Alexander Reuter",
+        "role": "Founder & CEO",
+        "bio": "15 years of experience in the energy sector. Pioneer for integrated energy solutions."
+      },
+      {
+        "name": "Dr. Sarah Müller",
+        "role": "Head of Technology",
+        "bio": "Specialist in photovoltaics and storage systems with a doctorate in electrical engineering."
+      },
+      {
+        "name": "Thomas Wagner",
+        "role": "Sales & Consulting",
+        "bio": "Expert in individual energy concepts and long-term customer relationships."
+      },
+      {
+        "name": "Julia Schneider",
+        "role": "Project Management",
+        "bio": "Coordinates our projects with precision – from planning to commissioning."
+      }
+    ]
+  },
+  "why": {
+    "badge": "Why Holigy",
+    "title": "The difference\nyou can feel.",
+    "items": [
+      {
+        "title": "Tailor-made",
+        "description": "No standard solutions. Every project is individually planned and tailored to your needs."
+      },
+      {
+        "title": "End-to-End",
+        "description": "From consulting through installation to ongoing operations – everything from a single source."
+      },
+      {
+        "title": "Long-term Partnership",
+        "description": "We think in decades, not quarters. Your system is our responsibility."
+      },
+      {
+        "title": "Local Expertise",
+        "description": "Deep understanding of regional conditions, grid requirements and subsidy programs."
+      }
+    ]
+  },
+  "projects": {
+    "badge": "References",
+    "title": "Projects that\nconvince.",
+    "subtitle": "A selection of our completed projects.",
+    "items": [
+      {
+        "type": "Commercial Installation",
+        "title": "Logistics Centre South",
+        "location": "Munich, Bavaria",
+        "metric": "420 kWp installed",
+        "description": "Large-scale rooftop installation with integrated storage system and self-consumption optimization."
+      },
+      {
+        "type": "Residential Installation",
+        "title": "Single-Family Home Bergheim",
+        "location": "Salzburg, Austria",
+        "metric": "18 kWp + 30 kWh Storage",
+        "description": "Fully integrated energy solution with EV charging and smart home integration."
+      },
+      {
+        "type": "Industrial Installation",
+        "title": "Production Plant North",
+        "location": "Hamburg, Germany",
+        "metric": "1.2 MWp Total Output",
+        "description": "Microgrid solution with battery storage and grid feed-in via PPA."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Let's start\nyour energy future.",
+    "subtitle": "Free initial consultation – no obligation and tailored to your situation.",
+    "info_title": "Contact Information",
+    "address": "Energiestraße 12\n80331 Munich",
+    "phone": "+49 89 12345678",
+    "email": "hello@holigy.de",
+    "map_placeholder": "Map",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "message_placeholder": "How can we help you?",
+      "type_private": "Private client",
+      "type_business": "Business client",
+      "submit": "Send message",
+      "type_label": "I am a"
+    }
+  },
+  "footer": {
+    "tagline": "Holistic energy solutions for a sustainable future.",
+    "nav_title": "Navigation",
+    "legal_title": "Legal",
+    "impressum": "Legal Notice",
+    "datenschutz": "Privacy Policy",
+    "copyright": "© 2024 Holigy GmbH. All rights reserved."
+  },
+  "impressum": {
+    "title": "Legal Notice",
+    "content": "Information pursuant to § 5 TMG\n\nHoligy GmbH\nEnergiestraße 12\n80331 Munich\n\nCommercial Register: HRB 123456\nRegistry Court: Munich Local Court\n\nRepresented by:\nAlexander Reuter (Managing Director)\n\nContact:\nPhone: +49 89 12345678\nEmail: hello@holigy.de\n\nVAT identification number pursuant to § 27a of the Value Added Tax Act: DE123456789"
+  },
+  "datenschutz": {
+    "title": "Privacy Policy",
+    "content": "This privacy policy informs you about the nature, scope and purpose of the processing of personal data within our online offering.\n\n1. Controller\nHoligy GmbH, Energiestraße 12, 80331 Munich\n\n2. Collection and Use of Data\nWe collect and use personal data only to the extent necessary for the provision of our services.\n\n3. Contact Form\nWhen you contact us via the contact form, your details from the form will be stored for the purpose of processing your inquiry.\n\n4. Your Rights\nYou have the right to information, correction, deletion and restriction of the processing of your personal data."
+  }
+}
